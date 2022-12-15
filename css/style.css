@@ -46,6 +46,7 @@ header .logo:hover {
   display: flex;
   gap: 0.5rem;
   font-weight: bolder;
+  cursor: pointer;
 }
 
 .menu ul a {
